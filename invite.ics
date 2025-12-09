@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20250711T100000Z
+DTEND:20250711T143000Z
+DTSTAMP:20250708T200606Z
+ORGANIZER;CN="Allstars Academy Nigeria":MAILTO:calendar-invite@lu.ma
+UID:evt-Muun8gJ8D8JEuE7@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ogunsa
+ nyadaniel123@gmail.com;X-NUM-GUESTS=0:mailto:ogunsanyadaniel123@gmail.com
+SUMMARY:Allstars Nigeria MAPOLY #1 - Welcome to the Block 🥳
+DESCRIPTION:Get up-to-date information at: https://lu.ma/e/evt-Muun8gJ8D8JE
+ uE7?pk=g-kox2uxZNErQhtYP\n\nAddress:\nMapoly\n\nHosted by Solana Allstars N
+ igeria & Jerry Ojumah
+LOCATION:Mapoly
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
